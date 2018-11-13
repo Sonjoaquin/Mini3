@@ -20,7 +20,8 @@
     <!-- navigation -->
     <div class="navigation">
         <a href="<?php echo URL; ?>">home</a>
-        <a href="<?php echo URL; ?>Canciones">Canciones</a>
-        <a href="<?php echo URL; ?>home/exampletwo">home/exampletwo</a>
+        <a href="<?php echo URL; ?>canciones">Canciones</a>
+        <a href="<?php echo URL; ?>preguntas/todas">todas las preguntas</a>
+        <a href="<?php echo URL; ?>preguntas/crear">crear una pregunta</a>
         <a href="<?php echo URL; ?>songs">songs</a>
     </div>
